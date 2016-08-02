@@ -1,2 +1,4 @@
 123456
 789
+
+Amend last Commit Setp 2 - change new file
